@@ -59,12 +59,6 @@ QuizGame/
 
 ---
 
-## 📷 Screenshot
-
-> _You can add a screenshot of your terminal playing the quiz here!_
-
----
-
 ## 📌 TODO (Future Upgrades)
 
 - [ ] Add GUI using Swing or JavaFX  
